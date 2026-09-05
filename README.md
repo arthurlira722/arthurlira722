@@ -1,16 +1,14 @@
-## Hi there 👋
+### Olá, eu sou o Arthur! 🇧🇷 👋
 
-<!--
-**arthurlira722/arthurlira722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Arthur, Sou Brasileiro e estou estudando programação, com foco atual na linguagem Python. Estou praticando a lógica de programação e construindo meus primeiros projetos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias e Ferramentas
+* **Linguagem:** Python
+* **Foco atual:** Lógica de programação, automações e construção de pequenos scripts.
+
+---
+
+### 📫 Conecte-se comigo
+* **E-mail:** arthurlira722@gmail.com
